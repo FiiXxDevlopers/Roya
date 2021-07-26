@@ -25,7 +25,6 @@ module.exports = {
 > \`report\`
 
 
-
 **|** **Music Commands**
 > \`play\` . \`skip\` . \`skipto\`
 > \`stop\` . \`volume\` . \`nowplaying\`
@@ -49,7 +48,7 @@ module.exports = {
 > \`kiss\` . \`slap\` . \`hug\`
 
 **|** **Links**
-[SUPPORT](https://discord.gg/nZfUmsBHgC)
+[SUPPORT](https://discord.gg/3VvvreDEwH)
 
 [INVITE](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
 `)
