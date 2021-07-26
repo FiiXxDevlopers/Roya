@@ -49,9 +49,9 @@ module.exports = {
 > \`kiss\` . \`slap\` . \`hug\`
 
 **|** **Links**
-[SUPPORT ROYA](https://discord.gg/nZfUmsBHgC)
+[SUPPORT](https://discord.gg/nZfUmsBHgC)
 
-[INVITE ROYA](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
+[INVITE](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
 `)
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
    .setColor("RANDOM");
