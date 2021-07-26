@@ -16,7 +16,7 @@ module.exports = {
 
     let helpEmbed = new MessageEmbed()
     .setThumbnail(` `)
-    .setTitle(`**Panda Bot ✨**`)
+    .setTitle(`**Roya Bot ✨**`)
     .setDescription(`
  **|** **User Commands**
 > \`invite\` - \`support\` - \`about\`
@@ -33,8 +33,6 @@ module.exports = {
 > \`remove\` . \`queue\` . \`loop\`
 > \`lyrics\` . \`radio\`
 
-
-
 **|** **Moderation Commands**
 > \`ban\` . \`unban\` . \`setnick\`
 > \`roleadd\` . \`roleremove\` . \`vkick\`
@@ -42,26 +40,18 @@ module.exports = {
 > \`open\` . \`senddm\` . \`createchannel\`
 > \`deletechannel\`
 
-
-
-
 **|** **Gif Commands**
 > \`boy\` . \`girl\` . \`couple\`
 > \`sad\` . \`cartoon\` . \`anime\`
 > \`neon\
 
-
-
-
 **|** **Game Commands**
 > \`kiss\` . \`slap\` . \`hug\`
 
-
-
-
 **|** **Links**
-[Support](https://discord.gg/progresshome)
-[Invite](https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot)
+[SUPPORT ROYA](https://discord.gg/nZfUmsBHgC)
+
+[INVITE ROYA](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
 `)
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
    .setColor("RANDOM");
