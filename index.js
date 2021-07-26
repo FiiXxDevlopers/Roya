@@ -910,7 +910,7 @@ Online
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setImage(``)
     .setTitle(`**{Support  Roya Bot}**`) 
-    .setThumbnail(`https://images-ext-1.discordapp.net/external/ywW90Qq3ButrY58SXGKsfdaHJ5Fl3fAX-jCt66kxq2k/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/807350534901071932/323c09ffbcd4777d8b5d14ac80df56a5.png `)
+    .setThumbnail(`https://cdn.discordapp.com/attachments/868582026243096596/869236383410171914/image0.png `)
     .setTimestamp()
     
     //send the Message
