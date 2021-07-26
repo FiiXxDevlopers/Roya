@@ -812,7 +812,7 @@ client.on(`ready`, () => {
         { return member.voice.channel.leave(); }
       });
       
-    client.user.setActivity(`Type: ${PREFIX}help - Panda Bot`, { type: "PLAYING"});
+    client.user.setActivity(`Type: ${PREFIX}help - Roya Bot`, { type: "PLAYING"});
     client.user.setActivity(`Type: ${PREFIX}help | ${client.guilds.cache.size} Server,Users ${client.guilds.cache.reduce((a, g) => a + g.memberCount, 0)},`, { type: "PLAYING"});
    
   
@@ -865,18 +865,18 @@ client.on(`message`, async (message) => {
     //define embed
     const embed = new Discord.MessageEmbed()
     .setColor("RANDOM")
-    .setAuthor("About Panda Bot.", "https://images-ext-1.discordapp.net/external/ywW90Qq3ButrY58SXGKsfdaHJ5Fl3fAX-jCt66kxq2k/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/807350534901071932/323c09ffbcd4777d8b5d14ac80df56a5.png")
-    .setThumbnail(`https://images-ext-1.discordapp.net/external/ywW90Qq3ButrY58SXGKsfdaHJ5Fl3fAX-jCt66kxq2k/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/807350534901071932/323c09ffbcd4777d8b5d14ac80df56a5.png `)
+    .setAuthor("About Roya Bot.", "https://cdn.discordapp.com/attachments/868582026243096596/869236383410171914/image0.png")
+    .setThumbnail(`https://cdn.discordapp.com/attachments/868582026243096596/869236383410171914/image0.png `)
     .setFooter(message.author.username, message.author.displayAvatarURL)
     .setTimestamp()
     .setDescription(`
 
-[{Support}](https://discord.gg/progresshome)
+[{Support}](https://discord.gg/FY3uQmQHQh)
 
-[{Invite}](https://discord.com/api/oauth2/authorize?client_id=807350534901071932&permissions=8&scope=bot)
+[{Invite}](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
 
 **{Developers Bot}** :
-Dev/<@701546840063082601>
+Dev/<@798977210555433002>
 
 **{Set Status}** :
 Online
@@ -885,7 +885,7 @@ Online
 19/6/2021
 
 **{Prefix Bot}** :
-$
+*
 
 `)
 
@@ -979,4 +979,4 @@ function delay(delayInms) {
  });
 }
 
-//Bot coded by Aquaman#5186 
+//Bot coded by !        KS |  ᖴ𝗂𝗂᙭#9480 
