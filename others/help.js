@@ -25,14 +25,14 @@ module.exports = {
 > \`report\`
 
 
-<a:emoji_8:806266140699525120>**|** **Music Commands**
+<a:emoji_57:827797889505689610>**|** **Music Commands**
 > \`play\` . \`skip\` . \`skipto\`
 > \`stop\` . \`volume\` . \`nowplaying\`
 > \`shuffle\` . \`search\` . \`resume\`
 > \`remove\` . \`queue\` . \`loop\`
 > \`lyrics\` . \`radio\`
 
-<a:emoji_106:806516295221772299>**|** **Moderation Commands**
+<a:emoji_30:806267047515783198>**|** **Moderation Commands**
 > \`ban\` . \`unban\` . \`setnick\`
 > \`roleadd\` . \`roleremove\` . \`vkick\`
 > \`setprefix\` . \`clear\` . \`close\`
@@ -47,7 +47,7 @@ module.exports = {
 <a:Mode:811659464431370281>**|** **Game Commands**
 > \`kiss\` . \`slap\` . \`hug\`
 
-<a:emoji_49:869466093952045087> <a:emoji_48:869466069721575434>**|** **Links**
+<a:emoji_43:869465955326120006>**|** **Links**
 [SUPPORT](https://discord.gg/3VvvreDEwH)
 
 [INVITE](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
