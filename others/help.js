@@ -47,7 +47,7 @@ module.exports = {
 <a:Mode:811659464431370281>**|** **Game Commands**
 > \`kiss\` . \`slap\` . \`hug\`
 
-<a:emoji_43:869465955326120006>**|** **Links**
+<:emoji_95:870360734440259624>**|** **Links**
 [SUPPORT](https://discord.gg/3VvvreDEwH)
 
 [INVITE](https://discord.com/api/oauth2/authorize?client_id=868927255219417129&permissions=8&scope=bot)
