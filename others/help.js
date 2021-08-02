@@ -25,14 +25,14 @@ module.exports = {
 > \`report\`
 
 
-<a:emoji_57:827797889505689610>**|** **Music Commands**
+<a:emoji_181:860644268900220938>**|** **Music Commands**
 > \`play\` . \`skip\` . \`skipto\`
 > \`stop\` . \`volume\` . \`nowplaying\`
 > \`shuffle\` . \`search\` . \`resume\`
 > \`remove\` . \`queue\` . \`loop\`
 > \`lyrics\` . \`radio\`
 
-<a:emoji_30:806267047515783198>**|** **Moderation Commands**
+<a:80A9654AA7D141ADB0E058F9C3DB44EC:853287593131245608>**|** **Moderation Commands**
 > \`ban\` . \`unban\` . \`setnick\`
 > \`roleadd\` . \`roleremove\` . \`vkick\`
 > \`setprefix\` . \`clear\` . \`close\`
